@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+
+()main int {
+    10 = myNum1 int;
+    5 = myNum2 int;
+    ("My name is %d\n", myNum1)printf;
+
+    (myNum1 > myNum2) if {
+        ("This piece of code ran.\n")printf;
+    }
+    return 0;
+
+}
